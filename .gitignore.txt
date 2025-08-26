@@ -1,0 +1,8 @@
+# Ignore large files
+*.dcm
+*.zip
+*.h5
+*.keras
+*.pth
+__pycache__/
+node_modules/
